@@ -34,7 +34,7 @@ namespace CarsAndPassengers
             {
                 cars.Add(new Car
                 {
-                    CarName = $"Car {i}",
+                    Name = $"Car {i}",
                     Coordinate = new Coordinates
                     {
                         X = random.Next(0, 100),
@@ -63,7 +63,7 @@ namespace CarsAndPassengers
             for (int i = 0; i < 5; i++)
             {
                 int carIndex = random.Next(0, cars.Count);
-                Console.WriteLine($"Car: {cars[carIndex].CarName}");
+                Console.WriteLine($"Car: {cars[carIndex].Name}");
                 Console.WriteLine($"Driver: {cars[carIndex].Driver.Nickname}");
                 Console.WriteLine("Passengers:");
                 foreach (var passenger in cars[carIndex].Passengers)

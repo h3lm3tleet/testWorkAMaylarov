@@ -8,7 +8,7 @@ namespace TestWorkCarsPassengers
 {
     public class Car
     {
-        public string CarName { get; set; }
+        public string Name { get; set; }
         public Coordinates Coordinate { get; set; }
         public Player Driver { get; set; }
         public List<Player> Passengers { get; set; } = new List<Player>();
