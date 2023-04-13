@@ -13,7 +13,6 @@ namespace CarsAndPassengers
         static void Main(string[] args)
         {
             var players = new ConcurrentQueue<Player>();
-            var playersList = new Dictionary<string, Player>();
             var cars = new List<Car>();
             var random = new Random();
 
@@ -29,7 +28,6 @@ namespace CarsAndPassengers
                     }
                 };
                 players.Enqueue(player);
-                playersList.Add(player.Nickname, player);
             }
 
             for (int i = 0; i < 200; i++)
