@@ -1,0 +1,8 @@
+C:\GitHubRepos\testWork\TestWorkCarsPassengers\bin\Debug\TestWorkCarsPassengers.exe.config
+C:\GitHubRepos\testWork\TestWorkCarsPassengers\bin\Debug\TestWorkCarsPassengers.exe
+C:\GitHubRepos\testWork\TestWorkCarsPassengers\bin\Debug\TestWorkCarsPassengers.pdb
+C:\GitHubRepos\testWork\TestWorkCarsPassengers\obj\Debug\TestWorkCarsPassengers.csproj.AssemblyReference.cache
+C:\GitHubRepos\testWork\TestWorkCarsPassengers\obj\Debug\TestWorkCarsPassengers.csproj.SuggestedBindingRedirects.cache
+C:\GitHubRepos\testWork\TestWorkCarsPassengers\obj\Debug\TestWorkCarsPassengers.csproj.CoreCompileInputs.cache
+C:\GitHubRepos\testWork\TestWorkCarsPassengers\obj\Debug\TestWorkCarsPassengers.exe
+C:\GitHubRepos\testWork\TestWorkCarsPassengers\obj\Debug\TestWorkCarsPassengers.pdb
